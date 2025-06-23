@@ -1,7 +1,6 @@
 
-### 📘 `README.md`
+### =📘 `README.md`
 
-```markdown
 # Real-Time Caption Generation for Visually Impaired
 
 A Python-based AI vision assistant designed to help visually impaired individuals perceive and understand their surroundings through real-time audio descriptions. The system leverages cutting-edge models like BLIP, CLIP, and EasyOCR to convert visual data into speech using natural language understanding and computer vision.
@@ -26,7 +25,7 @@ A Python-based AI vision assistant designed to help visually impaired individual
    - EasyOCR → Text Detection
 4. **Output** – Delivered as spoken audio using pyttsx3.
 5. **Multithreaded** – Handles camera, speech synthesis, and recognition concurrently.
-```
+
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
