@@ -86,6 +86,10 @@ jupyter notebook visual_echo.ipynb
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 - [OpenCV](https://pypi.org/project/opencv-python/)
 
+## 🎬 Video Demo
+
+You can watch the video here : https://drive.google.com/file/d/1n8cmJt6K5_g34Pykq7p3THyrHTqjsFzE/view?usp=drive_link
+
 ---
 
 © 2025 – Ishaan Kaul, Lakshya Agrawal, Soumil Jain, Mahi Pahuja
