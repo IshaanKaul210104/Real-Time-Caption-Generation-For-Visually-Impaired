@@ -1,5 +1,5 @@
 
-### =📘 `README.md`
+### 📘 `README.md`
 
 # Real-Time Caption Generation for Visually Impaired
 
