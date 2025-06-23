@@ -88,6 +88,6 @@ jupyter notebook visual_echo.ipynb
 
 ---
 
-© 2025 – Lakshya Agrawal, Soumil Jain, Mahi Pahuja, Ishaan Kaul
+© 2025 – Ishaan Kaul, Lakshya Agrawal, Soumil Jain, Mahi Pahuja
 ```
 
